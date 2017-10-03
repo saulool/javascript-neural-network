@@ -1,0 +1,24 @@
+{
+  "name": "javascript-neural-network",
+  "version": "1.0.0",
+  "description": "A neural network using javascript",
+  "main": "main.js",
+  "dependencies": {
+    "brain.js": "^1.0.0-rc.3"
+  },
+  "devDependencies": {
+    "brain.js": "^1.0.0-rc.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neural",
+    "network",
+    "javascript",
+    "machine",
+    "learning"
+  ],
+  "author": "Saulo Oliveira",
+  "license": "ISC"
+}
